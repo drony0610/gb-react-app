@@ -1,5 +1,4 @@
 
-
 const Message = ({messageText}) => {
     return (
         <div className="textMessage">
